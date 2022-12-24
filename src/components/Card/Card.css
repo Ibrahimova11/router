@@ -1,0 +1,15 @@
+.card-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
+.card-container > div{
+margin-top: 100px;
+}
+.cardd:hover{
+    background-color: rgb(102, 161, 250);
+    box-shadow: 3px 3px red, -1em 0 .4em rgb(27, 24, 192);
+    color:yellow;
+}

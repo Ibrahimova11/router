@@ -1,0 +1,14 @@
+#toolbar{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#toolbar a{
+    text-decoration: none;
+    color: rgb(251, 255, 0) ;
+    width: 90px !important;
+    font-size: 20px !important;
+}
